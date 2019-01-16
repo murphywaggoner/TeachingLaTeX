@@ -25,6 +25,16 @@ Resources for teaching LaTeX using OverLeaf for the purpose of typesetting solut
 1. For each assignment, create a new file in the project, copy the source code from *HomeworkTemplate.tex*, and paste into the new file.
 
    1. Name your files in a way that will be useful later.  For instance, *P42Induction.tex* in the *Math265* project would be induction proofs off of page 42 of the text.  Later, if I needed to refer back to an Induction proof, I would know to go to this file.
+   
+1. **Copying Files**:  Instead of having to copy the source code from one file to another each time you start a new assignment consider this.
+
+   1. Go to the projects page and on the right select the download button for this project.  This will download a zipped folder of all files in that project.
+   
+   1. On your computer, unzip that folder and save the template somewhere handy.
+   
+   1. Back in Overleaf, go to this project.  Select the button to upload a file and upload the template you just saved.  Rename it.
+   
+   1. You now can upload the template every time you want to start a new assignment and don't have to copy source code from one file to another.
 
 # Resources
 
