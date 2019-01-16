@@ -3,7 +3,7 @@ Resources for teaching LaTeX using OverLeaf for the purpose of typesetting solut
 
 # Process
 
-1. Login to Overleaf or create an account on Overleaf if you haven't already
+1. Login to Overleaf or create an account on [Overleaf](https://www.overleaf.com) if you haven't already
 
 2. Create a New Project  
    1. Names in Overleaf can't contain spaces so use CamelCase or snake_case or some variation.
